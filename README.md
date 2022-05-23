@@ -1,4 +1,7 @@
-NOTE: THIS IS A DEMO WEBSITE AND IS MADE TO BE ALTERED! :)
+Things to work on for future projects:
+- Comment as you go 
+- Make the organisation more clean 
+
 
 # Getting Started with Create React App
 
